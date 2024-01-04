@@ -1,7 +1,3 @@
-Adding
-this 
-content
-to 
-create
-a
-conflict
+# References
+
+* octocat 1 😈
